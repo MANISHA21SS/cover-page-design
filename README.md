@@ -123,7 +123,7 @@ Write HTML and CSS code for designing book cover page and execute them.
 ```
 
 ## Output:
-![Alt text](index.jpeg)
+recent:///9eb10cece2bca3008b2a5aab658d71e8
 
 ## Result:
 The program for designing book cover page using HTML and CSS is executed successfully.
